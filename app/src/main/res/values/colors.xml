@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <color name="default_background">#ffffff</color>
+    <color name="listview_divider">#cecece</color>
+    <color name="container_background">#cecece</color>
+    <color name="details_header_background">#9ce8bb</color>
+</resources>

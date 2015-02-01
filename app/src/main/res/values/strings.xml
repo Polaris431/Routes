@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ArcTouch Coding Assignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="name_of_street">Name of street</string>
+    <string name="route_label">Route:</string>
+    <string name="streets_label">Streets:</string>
+    <string name="route_timetable">Timetable:</string>
+    <string name="route_details">Route Details</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="select_street_on_a_map">Select street on a map</string>
+</resources>
